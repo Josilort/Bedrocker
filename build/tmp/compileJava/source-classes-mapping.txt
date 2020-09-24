@@ -1,0 +1,6 @@
+com/josia/bedrocker/Mod.java
+ com.josia.bedrocker.Mod
+com/josia/bedrocker/mixin/ExampleMixin.java
+ com.josia.bedrocker.mixin.ExampleMixin
+com/josia/bedrocker/WeakBedrock.java
+ com.josia.bedrocker.WeakBedrock

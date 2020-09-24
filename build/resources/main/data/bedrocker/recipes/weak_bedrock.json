@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#X#",
+    "X#X"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "minecraft:obsidian"
+      }
+    ],
+    "X": {
+      "item": "bedrocker:weak_bedrock"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock"
+  }
+}
